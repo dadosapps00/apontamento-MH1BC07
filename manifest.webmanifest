@@ -1,6 +1,6 @@
 {
-  "name": "Apontamento NR-13",
-  "short_name": "Apont. NR-13",
+  "name": "Apontamento MH1BC07",
+  "short_name": "Apont. MH1BC07",
   "description": "Apontamento de avanço físico em campo, funciona sem internet.",
   "start_url": "./index.html",
   "scope": "./",
